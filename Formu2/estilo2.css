@@ -1,0 +1,50 @@
+.Contenido{
+  width: 500px;
+  height: 180px;
+  border: 5px solid #53687e;
+  margin: auto;
+  padding: 30px 30px;
+  background: #495c70;
+  color: white;
+}
+
+#Sect{
+  border: 0px solid black;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+#Tipos{
+  width: 70%;
+  float: right;
+}
+
+#Datos{
+  width: 25%;
+  float: left;
+}
+
+label{
+  display: block;
+  padding-bottom: 1px;
+}
+
+input{
+  width: 100%;
+  display: block;
+  border: none;
+  border-bottom-style: dotted;
+  background: #495c70;
+  border-color: #a8b7b5;
+}
+
+#buttom{
+  height: 40px;
+  width: 90px;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  background: #576e86;
+  color: #a8b7b5;
+}
